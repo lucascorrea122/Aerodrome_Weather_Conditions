@@ -13,11 +13,11 @@ What things you need to install the software and how to install them
 
 ## How to run the code
 
-*Download and extract the code
-*Open the command prompt in the code folder
-*Execute "python 'file name'.py'
+* Download and extract the code
+* Open the command prompt in the code folder
+* Execute "python 'file name'.py'
 
-OBS: default file name *aerodrome_condition.py*
+OBS: default file name *"aerodrome_condition.py"*
 
 
  
